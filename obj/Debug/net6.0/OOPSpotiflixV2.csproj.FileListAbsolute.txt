@@ -1,0 +1,15 @@
+/Users/lassejon/src/repos/Spotiflix/bin/Debug/net6.0/OOPSpotiflixV2
+/Users/lassejon/src/repos/Spotiflix/bin/Debug/net6.0/OOPSpotiflixV2.deps.json
+/Users/lassejon/src/repos/Spotiflix/bin/Debug/net6.0/OOPSpotiflixV2.runtimeconfig.json
+/Users/lassejon/src/repos/Spotiflix/bin/Debug/net6.0/OOPSpotiflixV2.dll
+/Users/lassejon/src/repos/Spotiflix/bin/Debug/net6.0/OOPSpotiflixV2.pdb
+/Users/lassejon/src/repos/Spotiflix/obj/Debug/net6.0/OOPSpotiflixV2.csproj.AssemblyReference.cache
+/Users/lassejon/src/repos/Spotiflix/obj/Debug/net6.0/OOPSpotiflixV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lassejon/src/repos/Spotiflix/obj/Debug/net6.0/OOPSpotiflixV2.AssemblyInfoInputs.cache
+/Users/lassejon/src/repos/Spotiflix/obj/Debug/net6.0/OOPSpotiflixV2.AssemblyInfo.cs
+/Users/lassejon/src/repos/Spotiflix/obj/Debug/net6.0/OOPSpotiflixV2.csproj.CoreCompileInputs.cache
+/Users/lassejon/src/repos/Spotiflix/obj/Debug/net6.0/OOPSpotiflixV2.dll
+/Users/lassejon/src/repos/Spotiflix/obj/Debug/net6.0/refint/OOPSpotiflixV2.dll
+/Users/lassejon/src/repos/Spotiflix/obj/Debug/net6.0/OOPSpotiflixV2.pdb
+/Users/lassejon/src/repos/Spotiflix/obj/Debug/net6.0/OOPSpotiflixV2.genruntimeconfig.cache
+/Users/lassejon/src/repos/Spotiflix/obj/Debug/net6.0/ref/OOPSpotiflixV2.dll
